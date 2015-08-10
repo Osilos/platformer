@@ -1,0 +1,226 @@
+{
+	"BridgeLeft": {
+		"x": 0,
+		"y": 0
+	},
+	"Ground": {
+		"x": 0,
+		"y": -96
+	},
+	"ShootEnemyFire_end": {
+		"x": -54.5,
+		"y": -45
+	},
+	"ShootEnemyTurret_end": {
+		"x": -74.5,
+		"y": -71.95
+	},
+	"Player_receptionShoot": {
+		"x": -105.5,
+		"y": -264
+	},
+	"Player_wait": {
+		"x": -81.25,
+		"y": -240.9
+	},
+	"Wall0": {
+		"x": 0,
+		"y": 0
+	},
+	"EndLevel": {
+		"x": -51,
+		"y": -241
+	},
+	"Player_jump": {
+		"x": -83.25,
+		"y": -259.1
+	},
+	"Player_fallShoot": {
+		"x": -90.1,
+		"y": -245
+	},
+	"Wall3": {
+		"x": 0,
+		"y": 0
+	},
+	"Wall1": {
+		"x": 0,
+		"y": 0
+	},
+	"LimitRight": {
+		"x": 0,
+		"y": 0
+	},
+	"Platform0": {
+		"x": 0,
+		"y": 0
+	},
+	"ShootEnemyTurret_begin": {
+		"x": -34.5,
+		"y": -49.55
+	},
+	"Player_fall": {
+		"x": -90.1,
+		"y": -243
+	},
+	"EnemyTurret_waitShoot": {
+		"x": -171,
+		"y": -306.1
+	},
+	"EnemyBomb_wait": {
+		"x": -81,
+		"y": -263
+	},
+	"EnemyFire_walkShoot": {
+		"x": -127,
+		"y": -429.9
+	},
+	"SuperShootPlayer_begin": {
+		"x": -133.5,
+		"y": -106.5
+	},
+	"EnemySpeed_wait": {
+		"x": -84.5,
+		"y": -243.1
+	},
+	"ButtonLevel4": {
+		"x": -0.5,
+		"y": -683.5
+	},
+	"EnemyFire_hurt": {
+		"x": -121,
+		"y": -440.45
+	},
+	"Player_walk": {
+		"x": -100.1,
+		"y": -244.9
+	},
+	"Destructible": {
+		"x": 0,
+		"y": -3
+	},
+	"KillZoneStatic": {
+		"x": 0,
+		"y": -123
+	},
+	"ButtonLevel2": {
+		"x": -0.5,
+		"y": -683.5
+	},
+	"Collectable": {
+		"x": -75,
+		"y": -59
+	},
+	"EnemyFire_walk": {
+		"x": -126,
+		"y": -429.9
+	},
+	"Player_waitShoot": {
+		"x": -85.1,
+		"y": -240.1
+	},
+	"ShootPlayer_begin": {
+		"x": -68.5,
+		"y": -21
+	},
+	"Shield_begin": {
+		"x": -145,
+		"y": -145
+	},
+	"EnemyTurret_hurt": {
+		"x": -174,
+		"y": -306
+	},
+	"BridgeRight": {
+		"x": -67,
+		"y": 0
+	},
+	"ButtonLevel1": {
+		"x": -0.5,
+		"y": -683.5
+	},
+	"KillZoneDynamic": {
+		"x": -1,
+		"y": -1
+	},
+	"Player_jumpShoot": {
+		"x": -83.1,
+		"y": -257
+	},
+	"Player_hurt": {
+		"x": -80.1,
+		"y": -240.1
+	},
+	"Shield_end": {
+		"x": -146,
+		"y": -146.05
+	},
+	"ShootEnemyFire_begin": {
+		"x": -88.4,
+		"y": -21.45
+	},
+	"ShootPlayer_end": {
+		"x": -76,
+		"y": -22
+	},
+	"Platform1": {
+		"x": 0,
+		"y": 0
+	},
+	"LimitLeft": {
+		"x": 0,
+		"y": 0
+	},
+	"Wall2": {
+		"x": 0,
+		"y": 0
+	},
+	"EnemyFire_waitShoot": {
+		"x": -125.5,
+		"y": -430
+	},
+	"Player_reception": {
+		"x": -84.1,
+		"y": -239.9
+	},
+	"CheckPoint": {
+		"x": -50,
+		"y": -240.55
+	},
+	"Player_walkShoot": {
+		"x": -100.1,
+		"y": -242
+	},
+	"EnemySpeed_walk": {
+		"x": -80,
+		"y": -242.9
+	},
+	"EnemyTurret_wait": {
+		"x": -176,
+		"y": -306
+	},
+	"EnemyBomb_hurt": {
+		"x": -108,
+		"y": -275.1
+	},
+	"EnemySpeed_hurt": {
+		"x": -96,
+		"y": -258.1
+	},
+	"SuperShootPlayer_end": {
+		"x": -131.5,
+		"y": -106.5
+	},
+	"EnemyFire_wait": {
+		"x": -122.5,
+		"y": -430
+	},
+	"EnemyBomb_walk": {
+		"x": -89.5,
+		"y": -245.9
+	},
+	"ButtonLevel3": {
+		"x": -0.5,
+		"y": -683.5
+	}
+}

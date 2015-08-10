@@ -1,0 +1,534 @@
+{"frames": {
+
+"ButtonSoundOff0001.png":
+{
+	"frame": {"x":2,"y":2,"w":15,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":15,"h":15},
+	"sourceSize": {"w":15,"h":15},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonSoundOff0002.png":
+{
+	"frame": {"x":19,"y":2,"w":15,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":15,"h":15},
+	"sourceSize": {"w":15,"h":15},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonSoundOff0004.png":
+{
+	"frame": {"x":36,"y":2,"w":15,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":15,"h":15},
+	"sourceSize": {"w":15,"h":15},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonSoundOff0003.png":
+{
+	"frame": {"x":53,"y":2,"w":15,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":15,"h":15},
+	"sourceSize": {"w":15,"h":15},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonSoundOn0001.png":
+{
+	"frame": {"x":70,"y":2,"w":15,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":15,"h":15},
+	"sourceSize": {"w":15,"h":15},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonSoundOn0003.png":
+{
+	"frame": {"x":87,"y":2,"w":15,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":15,"h":15},
+	"sourceSize": {"w":15,"h":15},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonSoundOn0004.png":
+{
+	"frame": {"x":104,"y":2,"w":15,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":15,"h":15},
+	"sourceSize": {"w":15,"h":15},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonSoundOn0002.png":
+{
+	"frame": {"x":121,"y":2,"w":15,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":15,"h":15},
+	"sourceSize": {"w":15,"h":15},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonPause0004.png":
+{
+	"frame": {"x":138,"y":2,"w":25,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":25},
+	"sourceSize": {"w":25,"h":25},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonPause0003.png":
+{
+	"frame": {"x":165,"y":2,"w":25,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":25},
+	"sourceSize": {"w":25,"h":25},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonPause0002.png":
+{
+	"frame": {"x":192,"y":2,"w":25,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":25},
+	"sourceSize": {"w":25,"h":25},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonPause0001.png":
+{
+	"frame": {"x":219,"y":2,"w":25,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":25},
+	"sourceSize": {"w":25,"h":25},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonResume0004.png":
+{
+	"frame": {"x":246,"y":2,"w":106,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":31},
+	"sourceSize": {"w":106,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonResume0003.png":
+{
+	"frame": {"x":354,"y":2,"w":106,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":31},
+	"sourceSize": {"w":106,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonResume0001.png":
+{
+	"frame": {"x":462,"y":2,"w":106,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":31},
+	"sourceSize": {"w":106,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonResume0002.png":
+{
+	"frame": {"x":570,"y":2,"w":106,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":31},
+	"sourceSize": {"w":106,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonQuit0001.png":
+{
+	"frame": {"x":678,"y":2,"w":106,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":31},
+	"sourceSize": {"w":106,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonQuit0004.png":
+{
+	"frame": {"x":786,"y":2,"w":106,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":31},
+	"sourceSize": {"w":106,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonQuit0002.png":
+{
+	"frame": {"x":2,"y":35,"w":106,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":31},
+	"sourceSize": {"w":106,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonQuit0003.png":
+{
+	"frame": {"x":110,"y":35,"w":106,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":31},
+	"sourceSize": {"w":106,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonBackMenu0001.png":
+{
+	"frame": {"x":218,"y":35,"w":106,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":31},
+	"sourceSize": {"w":106,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonBackMenu0002.png":
+{
+	"frame": {"x":326,"y":35,"w":106,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":31},
+	"sourceSize": {"w":106,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonBackMenu0003.png":
+{
+	"frame": {"x":434,"y":35,"w":106,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":31},
+	"sourceSize": {"w":106,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonBackMenu0004.png":
+{
+	"frame": {"x":542,"y":35,"w":106,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":106,"h":31},
+	"sourceSize": {"w":106,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonJump0003.png":
+{
+	"frame": {"x":650,"y":35,"w":54,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":54},
+	"sourceSize": {"w":54,"h":54},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonFire0004.png":
+{
+	"frame": {"x":706,"y":35,"w":54,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":54},
+	"sourceSize": {"w":54,"h":54},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonJump0001.png":
+{
+	"frame": {"x":762,"y":35,"w":54,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":54},
+	"sourceSize": {"w":54,"h":54},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonJump0002.png":
+{
+	"frame": {"x":818,"y":35,"w":54,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":54},
+	"sourceSize": {"w":54,"h":54},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonFire0003.png":
+{
+	"frame": {"x":874,"y":35,"w":54,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":54},
+	"sourceSize": {"w":54,"h":54},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonFire.png":
+{
+	"frame": {"x":2,"y":91,"w":54,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":54},
+	"sourceSize": {"w":54,"h":54},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonJump0004.png":
+{
+	"frame": {"x":58,"y":91,"w":54,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":54},
+	"sourceSize": {"w":54,"h":54},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonFire0002.png":
+{
+	"frame": {"x":114,"y":91,"w":54,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":54},
+	"sourceSize": {"w":54,"h":54},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonFire0001.png":
+{
+	"frame": {"x":170,"y":91,"w":54,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":54,"h":54},
+	"sourceSize": {"w":54,"h":54},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonLeft0004.png":
+{
+	"frame": {"x":226,"y":91,"w":75,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":75},
+	"sourceSize": {"w":75,"h":75},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonLeft0003.png":
+{
+	"frame": {"x":303,"y":91,"w":75,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":75},
+	"sourceSize": {"w":75,"h":75},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonLeft0001.png":
+{
+	"frame": {"x":380,"y":91,"w":75,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":75},
+	"sourceSize": {"w":75,"h":75},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonRight0002.png":
+{
+	"frame": {"x":457,"y":91,"w":75,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":75},
+	"sourceSize": {"w":75,"h":75},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonRight0004.png":
+{
+	"frame": {"x":534,"y":91,"w":75,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":75},
+	"sourceSize": {"w":75,"h":75},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonMovement.png":
+{
+	"frame": {"x":611,"y":91,"w":150,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":75},
+	"sourceSize": {"w":150,"h":75},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonRight0003.png":
+{
+	"frame": {"x":763,"y":91,"w":75,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":75},
+	"sourceSize": {"w":75,"h":75},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonRight0001.png":
+{
+	"frame": {"x":840,"y":91,"w":75,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":75},
+	"sourceSize": {"w":75,"h":75},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonLeft0002.png":
+{
+	"frame": {"x":2,"y":168,"w":75,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":75},
+	"sourceSize": {"w":75,"h":75},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonLevel20001.png":
+{
+	"frame": {"x":79,"y":168,"w":203,"h":342},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":342},
+	"sourceSize": {"w":203,"h":342},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonLevel30003.png":
+{
+	"frame": {"x":284,"y":168,"w":203,"h":342},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":342},
+	"sourceSize": {"w":203,"h":342},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonLevel30002.png":
+{
+	"frame": {"x":489,"y":168,"w":203,"h":342},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":342},
+	"sourceSize": {"w":203,"h":342},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonLevel10004.png":
+{
+	"frame": {"x":694,"y":168,"w":203,"h":342},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":342},
+	"sourceSize": {"w":203,"h":342},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonLevel30001.png":
+{
+	"frame": {"x":2,"y":512,"w":203,"h":342},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":342},
+	"sourceSize": {"w":203,"h":342},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonLevel20003.png":
+{
+	"frame": {"x":207,"y":512,"w":203,"h":342},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":342},
+	"sourceSize": {"w":203,"h":342},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonLevel20002.png":
+{
+	"frame": {"x":412,"y":512,"w":203,"h":342},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":342},
+	"sourceSize": {"w":203,"h":342},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonLevel20004.png":
+{
+	"frame": {"x":617,"y":512,"w":203,"h":342},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":342},
+	"sourceSize": {"w":203,"h":342},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonLevel30004.png":
+{
+	"frame": {"x":2,"y":856,"w":203,"h":342},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":342},
+	"sourceSize": {"w":203,"h":342},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonLevel10001.png":
+{
+	"frame": {"x":207,"y":856,"w":203,"h":342},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":342},
+	"sourceSize": {"w":203,"h":342},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonLevel10002.png":
+{
+	"frame": {"x":412,"y":856,"w":203,"h":342},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":342},
+	"sourceSize": {"w":203,"h":342},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonLevel40001.png":
+{
+	"frame": {"x":617,"y":856,"w":203,"h":342},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":342},
+	"sourceSize": {"w":203,"h":342},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonLevel10003.png":
+{
+	"frame": {"x":2,"y":1200,"w":203,"h":342},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":342},
+	"sourceSize": {"w":203,"h":342},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonLevel40003.png":
+{
+	"frame": {"x":207,"y":1200,"w":203,"h":342},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":342},
+	"sourceSize": {"w":203,"h":342},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonLevel40002.png":
+{
+	"frame": {"x":412,"y":1200,"w":203,"h":342},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":342},
+	"sourceSize": {"w":203,"h":342},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"ButtonLevel40004.png":
+{
+	"frame": {"x":617,"y":1200,"w":203,"h":342},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":342},
+	"sourceSize": {"w":203,"h":342},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "buttons.png",
+	"format": "RGBA8888",
+	"size": {"w":930,"h":1544},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0af021e0d24546cf40a70c83f6e1783f:0bc7fe392272add0b936baedff84c3fb:b34c8670b11bb20cb1751a70d3683e22$"
+}
+}

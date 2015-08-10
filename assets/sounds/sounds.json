@@ -1,0 +1,27 @@
+{
+	"extensions": ["mp3","ogg"],
+	
+	"fxs":
+		{
+			"click":100,
+			"enemy_die":50,
+			"enemy_shoot":50,
+			"enemy_shoot_spot":50,
+			"enemy_walk_spot":50,
+			"jump":30,
+			"menu":20,
+			"player_death":35,
+			"player_shoot":50,
+			"player_super_shoot":25,
+			"shield":30,
+			"win":20,
+			"explosion_bomb": 30,
+			"reception": 30,
+			"super_shoot_charged": 30
+		},
+	
+	"musics":
+		{
+			
+		}
+}
